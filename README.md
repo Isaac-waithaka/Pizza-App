@@ -1,4 +1,4 @@
-# Pizza pap!
+# Pizza savoury!
 [Check it out](https://Isaac-waithaka.github.io/Pizza-App/)
 
 
@@ -7,9 +7,6 @@ A pizza ordering web application.
 
 ## Author:
 > Isaac Waithaka
-
-## Screenshot:
-<img src="images/shot.png" width="1000">
 
 ## Setup:
 `git clone https://github.com/Isaac-waithaka/Pizza-App.git` or download the zip file
