@@ -19,7 +19,7 @@ Extract the zip file
 
 ## Technologies:
 * HTML
-* CSS3
+* CSS
 * Bootstrap
 * Javascript
 * Jquery
