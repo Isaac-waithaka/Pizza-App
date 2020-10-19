@@ -3,7 +3,7 @@
 
 
 ## Description:
-A pizza ordering web application.
+A website where one is able to order pizza of their choice with a delivery option
 
 ## Author:
 > Isaac Waithaka
