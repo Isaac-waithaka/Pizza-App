@@ -38,4 +38,4 @@ Extract the zip file
 >MIT LICENSE &copy; 2020 Isaac
 
 ## Collaborate:
-To contribute to Pizza savoury!, reach me on `waithakaisaac2016@gmail.com`.
+To contribute to Pizza savoury!,reach me on `waithakaisaac2016@gmail.com`.
