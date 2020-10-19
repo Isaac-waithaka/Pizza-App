@@ -3,7 +3,7 @@
 
 
 ## Description:
-A website where one is able to order pizza of their choice with a delivery option
+A website where one is able to order pizza of their choice with a delivery option.
 
 ## Author:
 > Isaac Waithaka
