@@ -35,7 +35,7 @@ Extract the zip file
 | Delivery mode   | `eg No delivery`   |
 
 ## License:
->MIT LICENSE &copy; 2019 Victor
+>MIT LICENSE &copy; 2020 Isaac
 
 ## Collaborate:
 To contribute to Pizza pap!, reach me on `waithakaisaac2016@gmail.com`.
