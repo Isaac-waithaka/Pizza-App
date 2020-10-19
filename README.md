@@ -18,7 +18,7 @@ Extract the zip file
 `launch` the index.html file
 
 ## Technologies:
-* HTML5
+* HTML
 * CSS3
 * Bootstrap
 * Javascript
